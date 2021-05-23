@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img src='./images/china-dc.jpg' style='width: 60px' />
+<img src='./images/dc-75.jpg' style='width: 60px' />
 
 I'm DC 👋  &nbsp; Game designer, developer, hackathoner, and NLP product designer and developer.
 
