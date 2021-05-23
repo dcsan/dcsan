@@ -2,7 +2,7 @@
 
 <img src='./images/dc-75.jpg' style='width: 60px' />
 
-I'm DC 👋  &nbsp; Game designer, developer, hackathoner, and NLP product designer and developer.
+I'm DC 👋  &nbsp; Game designer and developer, hackathoner and NLP product designer and developer.
 
 - 🔭 I’m currently working on [Conversational AI Architecture](https://dc.rik.ai/projects/ccai) at a FAANG
 - 🌱 I’m currently learning [graph databases](https://dc.rik.ai/projects/convoai) for conversation analysis
