@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**dcsan/dcsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src='./images/china-dc.jpg' style='width: 60px' />
 
-Here are some ideas to get you started:
+I'm DC 👋  &nbsp; Game designer, developer, hackathoner, and NLP product designer and developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Conversational AI at a FAANG
+- 🌱 I’m currently learning [graph databases](https://dc.rik.ai/projects/convoai) for conversation analysis
+- 👯 I’m looking to collaborate on tools for improving AI apps, chatbot business ideas
+- 📫 How to reach me: [@DCsan on Twitter](https://twitter.com/dcsan) DMs are open!
+- ⚡ Fun fact: I've started companies in 3 continents!
+
+Find more projects on my personal site https://DC.rik.ai
